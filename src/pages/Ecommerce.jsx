@@ -130,7 +130,7 @@ const Ecommerce = () => {
                         </div>
                         <div className="mt-10">
                         <Button
-                        color='white' bgColor='blue' text='Telecharger Rapport' borderRadius= '10px'/>
+                        color='white' bgColor= {currentColor} text='Telecharger Rapport' borderRadius= '10px'/>
                         </div>
                     </div>
                       <div>
